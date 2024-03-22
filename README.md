@@ -1,0 +1,2 @@
+# Trap-stealer-in-golang
+:)
