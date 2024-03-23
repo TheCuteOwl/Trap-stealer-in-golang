@@ -1,5 +1,10 @@
 # Trap-stealer-in-golang
 
+Little update
+
+![image](https://github.com/TheCuteOwl/Trap-stealer-in-golang/assets/114611129/26bbbd42-6a71-4183-9218-1a70a0ea773b)
+
+JoeSandbox stop doing shitty detection based of def name it's easy to bypass ;) 
 
 This thing talked about me https://twitter.com/Hadess_security/status/1770031954101969160 so i'll make it official
 Yes i'm the dev behind ;)
