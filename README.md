@@ -2,7 +2,7 @@
 
 Little update
 
-![image](https://github.com/TheCuteOwl/Trap-stealer-in-golang/assets/114611129/26bbbd42-6a71-4183-9218-1a70a0ea773b)
+![image](https://github.com/TheCuteOwl/Trap-stealer-in-golang/assets/114611129/c3f4f819-2039-45e4-beca-766bebac0313)
 
 JoeSandbox stop doing shitty detection based of def name it's easy to bypass ;) 
 
